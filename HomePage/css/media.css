@@ -1,0 +1,9 @@
+@media only screen and (max-width: 900px) {
+    .flex,
+    .flex2 {
+        flex-direction: column;
+    }
+    .flex2 {
+        visibility: hidden;
+    }
+}
